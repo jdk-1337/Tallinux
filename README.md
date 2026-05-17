@@ -13,7 +13,7 @@ Welcome to Tallinux. This is a custom Linux distribution inspired by the city of
 * Simple design.
 
 ## Screenshots
-*(Place your desktop picture here)*
+*(screenshot placeholder)*
 `![Desktop](link_to_pic.png)`
 
 ## How to Install
